@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./src/assets/logo-nlw-expert.svg" width="140px" />
+  <img src="./public/favicon.png" width="140px" />
 </p>
 
 <h1 align="center">Audio Notes</h1>
