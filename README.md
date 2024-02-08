@@ -3,7 +3,7 @@
   <img alt="Version" src="https://img.shields.io/badge/version-0.0.0-blue.svg?cacheSeconds=2592000" />
 </p>
 
-> A notes app that converts audio notes to text using the Speech Recognition API
+> A notes app that converts audio notes to text using the SpeechRecognition API
 
 ## Install
 
